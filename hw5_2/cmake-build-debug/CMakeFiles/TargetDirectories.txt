@@ -1,0 +1,3 @@
+/Users/jerrykankelborg/370/hw5_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jerrykankelborg/370/hw5_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerrykankelborg/370/hw5_2/cmake-build-debug/CMakeFiles/hw5_2.dir
